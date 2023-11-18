@@ -36,7 +36,7 @@
 <h4 style="font-size:50%">Click And - qr එක ගන්න ක්ලික් කරන්න🥰</h4>
 
 <p align="left">
-<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/a69dc0833736f49044bbc.jpg" alt="Open Qr" heighr="90" width="300"></a>
+<a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/a69dc0833736f49044bbc.jpg" alt="Open Qr" heighr="90" width="300"></a>
 
 
 </p>
