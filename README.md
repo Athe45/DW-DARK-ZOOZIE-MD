@@ -23,7 +23,7 @@
 <h4 style="font-size:50%;colour:red">Click And - Fork කරන්න ක්ලික් කරන්න 💓</h4>
 
 <p align="left">
-<a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/a5ba8bd0f677c6df99da9.jpg" alt="Fork and deploy" height="100" width="300"> </a> <p align="right"> 
+<a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/2bbe72999c231bc36c2e6.jpg" alt="Fork and deploy" height="90" width="300"> </a> <p align="right"> 
   
 </p> 
     
