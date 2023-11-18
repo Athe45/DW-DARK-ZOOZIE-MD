@@ -61,10 +61,12 @@
 <h1 style="color:F70000">Main Helpers</h1>
 <b
 <ol>
-<h4 style="font-size=50%"><b>DARK : NIRO</b>  </h4>
-<h4 style="font-size=50%"><b>DARK : ATHEX </b></h4>
-<h4 style="font-size=50%"><b>DARK : HARSHA</b> </h4>
-<h4 style="font-size=50%"><b>DARK : GAYASHAN</b> </h4>
-<h4 style="font-size=50%"><b>DARK : SHANUU</b> </h4>
+<h4 style="font-size:50%"><b>DARK : NIRO</b>  </h4>
+<h4 style="font-size:50%"><b>DARK : ATHEX </b></h4>
+<h4 style="font-size:50%"><b>DARK : HARSHA</b> </h4>
+<h4 style="font-size:50%"><b>DARK : GAYASHAN</b> </h4>
+<h4 style="font-size:50%"><b>DARK : SHANUU</b> </h4>
 </ol>
-
+<br>
+<br>
+<h1 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ suppot group වෙත join වෙන්න </h1>
