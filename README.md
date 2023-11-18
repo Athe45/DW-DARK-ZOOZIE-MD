@@ -71,4 +71,4 @@
 <br>
 <h2 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
 <br>
-<a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB;style="font-size:75%"> <strong> Suppor Group </strong> </a>
+<a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB;style="font-size:75%"> <mark> Suppor Group </mark> </a>
