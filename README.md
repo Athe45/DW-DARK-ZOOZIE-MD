@@ -36,7 +36,7 @@
 <h4 style="font-size:50%">Click And - qr එක ගන්න ක්ලික් කරන්න🥰</h4>
 
 <p align="left">
-<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/656b127e8ba923cfaf8b8.jpg" alt="Open Qr" height="100" width="300" /></a>
+<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/7a497a36d6faccf13dd83.jpg" alt="Open Qr" height="90" width="300"></a>
 
 
 </p>
@@ -47,7 +47,7 @@
 
 
 <p align="left">
-<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/9f7ecc208326189cec350.jpg" alt="deploy" height="90" width="300" /></a>
+<a href="Message DARKWING : LEADER ATHEX on WhatsApp. https://wa.me/94765359949"><img align="center" src="https://telegra.ph/file/9f7ecc208326189cec350.jpg" alt="deploy" height="90" width="300"></a>
 
 <br>
 <br>
