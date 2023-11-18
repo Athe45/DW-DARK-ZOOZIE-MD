@@ -69,4 +69,4 @@
 </ol>
 <br>
 <br>
-<h1 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ suppot group වෙත join වෙන්න </h1>
+<h1 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h1>
