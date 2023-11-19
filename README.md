@@ -79,6 +79,7 @@
 <h3><a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB;style="font-size:75%"> <mark> Support Group Click Now 🥳 </mark> </a></h3>
 <br>
 <br>
+  
 ## Features🌍
 
 - Group Commands
@@ -89,8 +90,8 @@
 - Heroku Deploy
 - 2x Respond Speed
 - Amazing Commands
--Voice Messege
--Outo React
--1gb Dowload Size 
--Simple Menu
+- Voice Messege
+- Outo React
+- 1gb Dowload Size 
+- Simple Menu
 
