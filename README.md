@@ -93,6 +93,6 @@
 - Amazing Commands
 - Voice Messege
 - Outo React
-- 1gb Dowload Size 
+- 1gb Download Size 
 - Simple Menu
 
