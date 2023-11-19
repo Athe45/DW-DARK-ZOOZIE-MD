@@ -77,10 +77,9 @@
 <br>
 <h2 align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
 <br>
-<br>
 <p align="left">
-<a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/0eb49ac866f13177a4bda.jpg" alt="Support Group" heighr="25" width="100"> </a>
-
+<a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/0eb49ac866f13177a4bda.jpg" alt="Support Group" heighr="50" width="125"> </a>
+<br>
   
  ## Main Features List🌍
 
