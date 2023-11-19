@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Raleway%3Awght%40900&weight=800&size=40&pause=1000&color=F70000&random=false&width=335&height=60&lines=TM+DARK+WINGS"alt="TM DARK WINGS"
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Raleway%3Awght%40900&weight=800&size=40&pause=1000&color=F70000&random=false&width=335&height=60&lines=TM+DARK+WINGS"alt="">
 </h1>
 <p align="center">
 </p>
@@ -67,6 +67,11 @@
 <h4 style="font-size:50%"><b>DARK : GAYASHAN</b> </h4>
 <h4 style="font-size:50%"><b>DARK : SHANUU</b> </h4>
 </ol>
+<br>
+<br>
+<h2 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
+<br>
+<a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB;style="font-size:75%"> <mark> Support Group Click Now 🥳 </mark> </a>
 <br>
 <br>
 <h2 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
