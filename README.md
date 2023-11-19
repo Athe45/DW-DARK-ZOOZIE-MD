@@ -74,5 +74,5 @@
 </ol>
 <br>
 <br>
-<h2 style=font-family:Courler;align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
+<h2 style=font-family:Courler;align:center> #### ```කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ``` ### <br>suppot group වෙත join වෙන්න </h2>
 <h3><a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB;style="font-size:75%"> <mark> Support Group Click Now 🥳 </mark> </a></h3>
