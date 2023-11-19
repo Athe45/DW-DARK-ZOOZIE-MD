@@ -75,7 +75,7 @@
 </ol>
 <br>
 <br>
-<h2 align:center>කිරියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
+<h2 align:center>කිසියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
 <p align="left">
 <a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/0eb49ac866f13177a4bda.jpg" alt="Support Group" heighr="75" width="150"> </a>
 <br>
