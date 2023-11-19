@@ -9,12 +9,13 @@
 </p>
 <p align="center"> 
       <b>🔥 new vershion whatsap robot by darks wings team 🔥 </b>
-</p> 
-<h1>License 3</h1>
+      <h1>License 3</h1>
 
-[!<a align="center">[MIT License](https://img.shields.io/badge/License-MIT-green.svg)</a>](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-pink.svg)](http://www.gnu.org/licenses/agpl-3.0)
+</p> 
+
 <br>   
 #### ```TOTAL PROFILE VIEWS ATHEX```
 ![Visitor Count](https://profile-counter.glitch.me/Athe45/count.svg)
