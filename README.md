@@ -113,5 +113,6 @@ force in the realm of Sri Lankan WhatsApp bots.
 එහි සගයන්ට වඩා 100% ක්ම නවීන ලෙස කැපී පෙනෙන දියුණුවක් දක්වයි.
 පරිශීලක-හිතකාමී විශේෂාංග සමඟ නිර්මාණය කර ඇති අතර, එය ඕනෑම කෙනෙකුට ප්රවේශ විය හැකි,
 පහසු මෙහෙයුම් සඳහා සරල මෙනුවක් ඉදිරිපත් කරයි.  කැපී පෙනෙන ලෙස, Dark Athex ප්‍රමුඛ
-<q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>Dark wings කණ්ඩායම,</mark></abbr></q> ශ්‍රී ලංකාවේ WhatsApp bots ක්ෂේත්‍රයේ පුරෝගාමී බලවේගයක් ලෙස ස්ථාපිත වෙමින්, මෙම අති නවීන රොබෝවරයාට සමාරම්භක අයිතිය ලබා දෙයි.</pre>
+<q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>Dark wings කණ්ඩායම,</mark></abbr></q> ශ්‍රී ලංකාවේ WhatsApp bots ක්ෂේත්‍රයේ පුරෝගාමී බලවේගයක් ලෙස ස්ථාපිත වෙමින්,
+  මෙම අති නවීන රොබෝවරයාට සමාරම්භක අයිතිය ලබා දෙයි.</pre>
 <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
