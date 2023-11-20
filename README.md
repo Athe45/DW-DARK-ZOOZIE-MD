@@ -21,7 +21,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/Athe45/count.svg)
 
 
-
+<!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
 
 </p>
 <br>
@@ -33,6 +33,7 @@
   
 </p> 
     
+<!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
 
 
 </p>
@@ -43,6 +44,7 @@
 
 <p align="left">
 <a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/a69dc0833736f49044bbc.jpg" alt="Open Qr" heighr="90" width="300"> </a>
+<!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
 
 
 </p>
