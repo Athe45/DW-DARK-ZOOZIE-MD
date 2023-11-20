@@ -96,4 +96,4 @@
 - 1gb Download Size 
 - Simple Menu
 <br>
-<h1 style="border:2px solid red"> ATHEX</h1>
+<h3>`Bot Info´</h3>
