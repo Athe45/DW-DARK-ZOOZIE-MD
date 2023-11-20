@@ -96,7 +96,7 @@
 - 1gb Download Size 
 - Simple Menu
 <br>
- ## Bot Info 👇
+  <h2>Bot Info 👇</h2>
 <br>
 <pre><b>The WhatsApp robot model, initiated on 11/18/2023,
 boasts a remarkable advancement, being 100% more sophisticated than its counterparts.
