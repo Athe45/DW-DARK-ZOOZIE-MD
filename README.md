@@ -98,9 +98,9 @@
 <br>
 ## Bot Info 👇
 <br>
-<pre>The WhatsApp robot model, initiated on 11/18/2023,
+<pre><b>The WhatsApp robot model, initiated on 11/18/2023,
 boasts a remarkable advancement, being 100% more sophisticated than its counterparts.
 Designed with user-friendly features, it offers a simple menu for easy operation,
 making it accessible to anyone. Notably, the dark wings team, led by Dark Athex,
 claims the inaugural rights to this cutting-edge robot, establishing itself as a pioneering
-force in the realm of Sri Lankan WhatsApp bots.</pre>
+force in the realm of Sri Lankan WhatsApp bots.<b></b></pre>
