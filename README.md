@@ -107,5 +107,7 @@ boasts a remarkable advancement, being 100% more sophisticated than its counterp
 Designed with user-friendly features, it offers a simple menu for easy operation,
 making it accessible to anyone. Notably, the <q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>dark wings team,</mark></abbr></q> led by Dark Athex,
 claims the inaugural rights to this cutting-edge robot, establishing itself as a pioneering
-force in the realm of Sri Lankan WhatsApp bots.</pre>
+force in the realm of Sri Lankan WhatsApp bots.
+<br>
+11/18/2023 දින ආරම්භ කරන ලද WhatsApp රොබෝ මාදිලිය, එහි සගයන්ට වඩා 100% ක්ම නවීන ලෙස කැපී පෙනෙන දියුණුවක් දක්වයි.  පරිශීලක-හිතකාමී විශේෂාංග සමඟ නිර්මාණය කර ඇති අතර, එය ඕනෑම කෙනෙකුට ප්රවේශ විය හැකි, පහසු මෙහෙයුම් සඳහා සරල මෙනුවක් ඉදිරිපත් කරයි.  කැපී පෙනෙන ලෙස, Dark Athex ප්‍රමුඛ <q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>Dark wings කණ්ඩායම,</mark></abbr></q> ශ්‍රී ලංකාවේ WhatsApp bots ක්ෂේත්‍රයේ පුරෝගාමී බලවේගයක් ලෙස ස්ථාපිත වෙමින්, මෙම අති නවීන රොබෝවරයාට සමාරම්භක අයිතිය ලබා දෙයි.</pre>
 <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
