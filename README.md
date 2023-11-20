@@ -92,7 +92,8 @@
 - Full Costermizable
 - Free Deployments
 - Heroku Deploy
-- 2x Respond Speed
+- 2x Respond Speed  <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
+
 - Amazing Commands
 - Voice Messege
 - Outo React
@@ -107,3 +108,4 @@ Designed with user-friendly features, it offers a simple menu for easy operation
 making it accessible to anyone. Notably, the <q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>dark wings team,</mark></abbr></q> led by Dark Athex,
 claims the inaugural rights to this cutting-edge robot, establishing itself as a pioneering
 force in the realm of Sri Lankan WhatsApp bots.</pre>
+<!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
