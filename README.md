@@ -119,6 +119,6 @@ force in the realm of Sri Lankan WhatsApp bots.
 -MIT
 -GPL V3
 -AGPL
-<h4>License Accept</h4>
+<h3>License Accept</h3>
 </pre>
 <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
