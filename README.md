@@ -145,4 +145,5 @@ any circumstances.<br>
 
 | <a href="https://github.com/Athe45"><img src="https://telegra.ph/file/03da2a6e800c4781d94b6.jpg" width=90 height=90></a>
 |--|
-| **[DW:ATHEX](https://github.com/Athe45)**</br>Founder & Developer</br> | 
+| **[DARK:ATHEX](https://github.com/Athe45)**</br>Founder & 
+<br>Developer</br> | 
