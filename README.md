@@ -150,7 +150,7 @@ any circumstances.<br>
 Developer</br> |
 
 <p align="left">
-<a href="https://youtube.com/@AthexXGamer?si=2N6XdIU6Zx1XyzsA"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://telegra.ph/file/03da2a6e800c4781d94b6.jpg"  />
+<a href="https://youtube.com/@AthexXGamer?si=2N6XdIU6Zx1XyzsA"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="https://telegra.ph/file/03da2a6e800c4781d94b6.jpg"  />
 
 
 ###
