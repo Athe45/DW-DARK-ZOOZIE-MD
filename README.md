@@ -125,3 +125,5 @@ force in the realm of Sri Lankan WhatsApp bots.
 <h3>License Accept</h3>
 </b></pre>
 <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
+<br>
+<h2><address>Sri Lanka</address></h2>
