@@ -104,8 +104,7 @@
 <br>
 <pre><b>
 Basic Info
-
-
+<br>
 The WhatsApp robot model, initiated on 11/18/2023,
 boasts a remarkable advancement, being 100% more sophisticated than its counterparts.
 Designed with user-friendly features, it offers a simple menu for easy operation,
