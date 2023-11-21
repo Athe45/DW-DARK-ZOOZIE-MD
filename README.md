@@ -184,5 +184,6 @@ Developer</br> |
 
 ### 
 
-<img align="center" height="500" src="lv_0_20231121165232.html"  />
+<img align="center" height="500" src="![image](https://github.com/Athe45/DW-DARK-ZOOZIE-MD/assets/149071051/5111fc6a-44a3-4ab3-bacb-3c084d308416)
+"  />
 
