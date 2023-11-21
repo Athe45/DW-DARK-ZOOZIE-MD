@@ -130,3 +130,16 @@ force in the realm of Sri Lankan WhatsApp bots.
 <br>
 <h2><address><i><ins>Sri Lanka Anonymous</ins></i></address></h2>
 <br>
+## Copyrights
+
+This is the result of our team's<br>
+hard work and our team owns<br>
+the bot's rights and code rights.<br>
+Therefore, you have no chance to<br>
+change and submit our bot under<br>
+any circumstances.<br>
+<br>
+<h3><i><ins>Dark Wings Team Members</ins></i></h3>
+
+
+
