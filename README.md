@@ -82,7 +82,7 @@
 <a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/0eb49ac866f13177a4bda.jpg" alt="Support Group" heighr="75" width="150"> </a>
 <h3>For support, email=</h3></p><mark><q>athexg4@gmail.com</q></mark>
 <br>
-<h3><ins>Any Time Full Friendly Customer Service</ins></h3><sub>dark wings team</sub></p> 
+<h3><ins>Any Time Full Friendly Customer Service</ins></h3><sup>dark wings team</sup></p> 
 <br>
   
  ## Main Features List🌍 <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
