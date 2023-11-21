@@ -144,5 +144,5 @@ any circumstances.<br>
 
 
 | <a href="https://github.com/Athe45"><img src="https://telegra.ph/file/03da2a6e800c4781d94b6.jpg" width=90 height=90></a>
-|---|
-| **[DARK ALPHA](https://github.com/darkalphaxteam/)**</br>Founder & Developer</br> | 
+|--|
+| **[DW:ATHEX](https://github.com/Athe45)**</br>Founder & Developer</br> | 
