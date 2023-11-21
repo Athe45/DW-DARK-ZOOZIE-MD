@@ -182,3 +182,8 @@ Developer</br> |
 
 <img align="center" height="500" src="https://i.imgflip.com/65efzo.gif"  />
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Athe45/Athe45/output/snake.svg" alt="Snake animation" />
+
+###
