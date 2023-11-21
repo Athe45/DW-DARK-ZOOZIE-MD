@@ -74,6 +74,7 @@
 <h4 style="font-size:50%"><b>DARK : HARSHA</b> </h4>
 <h4 style="font-size:50%"><b>DARK : GAYASHAN</b> </h4>
 <h4 style="font-size:50%"><b>DARK : SHANUU</b> </h4>
+<h4 style="font-size:50%"><b>DARK : ALEX
 </ol>
 <br>
 <br>
@@ -118,7 +119,7 @@ force in the realm of Sri Lankan WhatsApp bots.
 එහි සගයන්ට වඩා 100% ක්ම නවීන ලෙස කැපී පෙනෙන දියුණුවක් දක්වයි.
 පරිශීලක-හිතකාමී විශේෂාංග සමඟ නිර්මාණය කර ඇති අතර, එය ඕනෑම කෙනෙකුට ප්රවේශ විය හැකි,
 පහසු මෙහෙයුම් සඳහා සරල මෙනුවක් ඉදිරිපත් කරයි.  කැපී පෙනෙන ලෙස, Dark Athex ප්‍රමුඛ
-<q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>Dark wings කණ්ඩායම,</mark></abbr></q> ශ්‍රී ලංකාවේ WhatsApp bots ක්ෂේත්‍රයේ පුරෝගාමී බලවේගයක් ලෙස ස්ථාපිත වෙමින්,
+<q><abbr title="Niro,Athex,Harsha,Gayashan,Alex,Shanu"><mark>Dark wings කණ්ඩායම,</mark></abbr></q> ශ්‍රී ලංකාවේ WhatsApp bots ක්ෂේත්‍රයේ පුරෝගාමී බලවේගයක් ලෙස ස්ථාපිත වෙමින්,
 මෙම අති නවීන රොබෝවරයාට සමාරම්භක අයිතිය ලබා දෙයි.
 <br>
 -MIT
