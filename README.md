@@ -147,4 +147,9 @@ any circumstances.<br>
 |--|
 | **[DARK:ATHEX](https://github.com/Athe45)**
 </br>Founder & 
-Developer</br> | 
+Developer</br> |
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
