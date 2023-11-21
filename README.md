@@ -80,6 +80,7 @@
 <h2 align:center>කිසියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>suppot group වෙත join වෙන්න </h2>
 <p align="left">
 <a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/0eb49ac866f13177a4bda.jpg" alt="Support Group" heighr="75" width="150"> </a>
+<h3>For support, email=</h3><q>athexg4@gmail.com</q></p> 
 <br>
 <br>
   
@@ -127,3 +128,4 @@ force in the realm of Sri Lankan WhatsApp bots.
 <!--මේකේ කිසිම දෙයක් වෙනස් නොකරන්න මුල්ම අයිතිය darkwings team එකට-->
 <br>
 <h2><address><i><ins>Sri Lanka Anonymous</ins></i></address></h2>
+<br>
