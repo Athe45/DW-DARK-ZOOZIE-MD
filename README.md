@@ -151,5 +151,5 @@ Developer</br> |
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="center" height="500" src="https://i.imgflip.com/65efzo.gif"  />
 
