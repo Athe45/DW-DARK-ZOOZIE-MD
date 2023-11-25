@@ -5,8 +5,8 @@
 <p align="center">
 </p>
 <p align="center">  
-  <a href="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/798fb30f0ac7e57ce251d.jpg">
+  <a href="https://telegra.ph/file/bc88bb8b6850d995c11d3.jpg">
+    <img alt="ZooZie-MD" height="300" src="https://telegra.ph/file/bc88bb8b6850d995c11d3.jpg">
 </p>
 <p align="center"> 
       <b>🔥 new vershion whatsap robot by darks wings team 🔥 </b>
