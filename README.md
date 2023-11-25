@@ -9,7 +9,7 @@
     <img alt="ZooZie-MD" height="300" src="https://telegra.ph/file/bc88bb8b6850d995c11d3.jpg">
 </p>
 <h3 align="center"> 
-      <b> 🚦 new vershion node module whatsapp-bot by darks wings team 🚦 </b>
+      <b> 🚦 New Vershion NodeModule Whatsapp-bot By Darks Wings Team 🚦 </b>
 </h3> 
 <h2>🌏License-3</h2>
 
