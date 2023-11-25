@@ -9,9 +9,9 @@
     <img alt="ZooZie-MD" height="300" src="https://telegra.ph/file/bc88bb8b6850d995c11d3.jpg">
 </p>
 <p align="center"> 
-      <b>🔥 new vershion whatsap robot by darks wings team 🔥 </b>
+     <h4> <b>🔥 new vershion whatsap robot by darks wings team 🔥 </b></h4>
 </p> 
-<h2>🔥License-3🔥</h2>
+<h2>🌏License-3</h2>
 
 <a aling="center">[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)</a>
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](https://opensource.org/licenses/)
