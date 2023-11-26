@@ -66,10 +66,7 @@
 
 අලුත් අප්ඩේට් එකට සෙට් වෙන්න හදපු<br>වෙනස්ම විදිහේ රොබෝ ආකෘතියකි මෙය<br>ඔබට ඉතා පහසුවෙන් හසුරවන්න සහ<br>පහසුවෙන්ම active කරගන්නත් පුලුවන්.<br> 
 <br>
-Made to be set for the new update<br>
-This is a different type of robot<br>
-You can easily handle and<br>
-It can be activated easily.<br>
+Made to be set for the new update<br>This is a different type of robot<br>You can easily handle and<br>It can be activated easily.<br>
 
 <b>by darks wings team</b></pre>
 
