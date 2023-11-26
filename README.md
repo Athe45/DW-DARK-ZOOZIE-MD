@@ -28,7 +28,7 @@
 </p>
 <br>
 
-<h3 style="font-size:50%;colour:red">Click And - Fork කරන්න ක්ලික් කරන්න 💓</h3>
+<h3 style="font-size:50%;colour:red">Click And - Fork Repo 💓</h3>
 
 <p align="left">
 <a href="https://github.com/Athe45/DW-DARK-ZOOZIE-MD/fork"><img align="center" src="https://telegra.ph/file/2bbe72999c231bc36c2e6.jpg" alt="Fork and deploy" height="90" width="300"> </a> <p align="right"> 
@@ -42,7 +42,7 @@
 <br>
 
 
-<h3 style="font-size:50%">Click And - qr එක ගන්න ක්ලික් කරන්න🥰</h3>
+<h3 style="font-size:50%">Click And - Open Qr Code Scanner🥰</h3>
 
 <p align="left">
 <a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/a69dc0833736f49044bbc.jpg" alt="Open Qr" heighr="90" width="300"> </a>
@@ -53,7 +53,7 @@
 <br>
 
 
-<h3 style="fontsize:50%">Click And - deploy කරන්න ක්ලික් කරන්න🙈</h3>
+<h3 style="fontsize:50%">Click And - deploy Heroku🙈</h3>
 
 
 <p align="left">
@@ -80,7 +80,7 @@
 </ol>
 <br>
 <br>
-<h2 align:center>කිසියම් ප්‍රශ්ණයක් ආවොත් අපේ<br>support group වෙත join වෙන්න🚨 </h2>
+<h2 align:center>If you have any problem, join the<br>support group 🚨 </h2>
 <p align="left">
 <a href="https://chat.whatsapp.com/EzHvniPwIS6IhyTgPVZQgB"><img align="center" src="https://telegra.ph/file/0eb49ac866f13177a4bda.jpg" alt="Support Group" heighr="75" width="150"> </a>
 <h3>For support, email=</h3></p><mark><q>athexg4@gmail.com</q></mark>
