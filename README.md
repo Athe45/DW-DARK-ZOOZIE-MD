@@ -1,6 +1,6 @@
 </p>
 <h1 align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Raleway%3Awght%40900&weight=600&size=30&pause=1000&color=F70000&random=false&width=335&height=60&lines=DW+ZOOZIE-MD;by+DARK+WINGS;සාදරයෙන්+පිලිගන්නවා;ZOOZIE-MD+වෙත;ඉතින්+කොහොමද❤️‍🔥;මොකද+කරන්නෙ🥲"alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Raleway%3Awght%40900&weight=600&size=30&pause=1000&color=F70000&random=false&width=335&height=60&lines=DW+ZOOZIE-MD+BOT;by+DARK+WINGS;සාදරයෙන්+පිලිගන්නවා;ZOOZIE-MD+වෙත;ඉතින්+කොහොමද❤️‍🔥;මොකද+කරන්නෙ🥲"alt="">
 </h1>
 <p align="center">
 </p>
